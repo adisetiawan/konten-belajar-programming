@@ -4,7 +4,7 @@
 
 Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui daftar,  silahkan `fork` dan `pull request`. Diurutkan berdasarkan alfabet
 
-[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](z) | [Lain-lain](#lain) 
+[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [Lain-lain](#lain) 
 
 
 ## A<a name="a"></a>
@@ -104,6 +104,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Konsep Koding
 
 [Website](https://www.konsepkoding.com/)
+
+### Kota Kode
+
+[Website](https://kotakode.com/)
 
 
 ## L<a name="l"></a>
