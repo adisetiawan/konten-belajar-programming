@@ -1,8 +1,10 @@
-# Daftar web dan konten belajar seputar pemrograman, 
+# Website, konten, & komunitas seputar pemrograman di Indonesia
 
-Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbahauri daftar,  silahkan `fork` dan `pull request`. Diurutkan berdasarkan alfabet
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
 
-[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](z) | [Lain-lain](#lain) | 
+Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui daftar,  silahkan `fork` dan `pull request`. Diurutkan berdasarkan alfabet
+
+[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](z) | [Lain-lain](#lain) 
 
 
 ## A<a name="a"></a>
@@ -11,23 +13,71 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbahauri d
 
 [Website](https://www.arkademy.com/) | [Instagram](https://www.instagram.com/arkademy/) | [Youtube](https://www.youtube.com/arkademy) | [Facebook](https://www.facebook.com/arkademycom/)
 
-program pelatihan dan penyaluran kerja untuk berkarir di bidang teknologi.
-
 ## B<a name="b"></a>
+
+### BaliJS 
+
+[Website](https://balijs.org/) | [Github](https://github.com/BaliJS) | [Telegram](https://t.me/balijs)
+
+### Build With Angga
+
+[Website](https://buildwithangga.com/) | [Instagram](http://instagram.com/buildwithangga) | [Youtube](https://youtube.com/anggarisky) | [Telegram](http://t.me/buildwithangga)
+
+### Belajar Python
+
+[Website](https://belajarpython.com/) | [Instagtam](https://instagram.com/belajarpython) | [Facebook](https://www.facebook.com/belajarpython/) | [Github](https://github.com/belajarpythoncom)
+
+### Belajar Koding
+
+[Website](https://belajarkoding.com/) | [Instagram](https://instagram.com/belajarkoding) | [Youtube](https://youtube.com/belajarkoding) | [Telegram](https://t.me/komunitasbk)
 
 ## C<a name="c"></a>
 
+### Codepolitan
+
+[Website](https://www.codepolitan.com/) | [Instagram](https://www.instagram.com/codepolitan/) | [Youtube](https://www.youtube.com/c/codepolitan) | [Facebook](https://www.facebook.com/codepolitan/) | [Twitter](https://twitter.com/codepolitan) | [LinkedIn](https://www.linkedin.com/company/codepolitan)
+
+### CodeSaya
+
+[Website](https://codesaya.com/) | [Facebook](https://www.facebook.com/codesayadotcom) | [Twitter](https://twitter.com/CodeSaya)
+
+### CodeBerry
+
+[Website](https://codeberryschool.com/) | [Instagram](https://www.instagram.com/codeberryschool/) | [Facebook](https://www.facebook.com/CodeBerry-Indonesia-Sekolah-Pemrograman-CodeBerry-1999034517025000/)
+
 ## D<a name="d"></a>
 
+### Dicoding
 
+[Website](https://www.dicoding.com/) | [Instagram](https://www.instagram.com/dicoding) | [Facebook](https://www.facebook.com/dicoding) | [Twitter](https://twitter.com/dicoding)
+
+### Duniailkom
+
+[Website](https://www.duniailkom.com/) | [Facebook](https://www.facebook.com/belajar.duniailkom) | [Twitter](https://twitter.com/duniailkom)
+
+### Dumbways.id
+
+[Website](https://dumbways.id/) | [Instagram](https://www.instagram.com/dumbwaysdotid) | [Facebook](https://www.facebook.com/dumbwaysdotid) | [LinkedIn](https://www.linkedin.com/company/dumbways-id)
+
+### Daeng Web
+
+[Website](https://daengweb.id/) | [Instagram](https://www.instagram.com/daengwebid/) | [Facebook](https://facebook.com/daengWebId/) | [Youtube](https://www.youtube.com/channel/UCHsijoukA4I8qdJoK6WW9Ww?view_as=subscriber) | [Github](https://github.com/daengwebid)
 
 ## E<a name="e"></a>
 
+
+
 ## F<a name="f"></a>
+
+
 
 ## G<a name="g"></a>
 
+
+
 ## H<a name="h"></a>
+
+
 
 ## I<a name="i"></a>
 
@@ -35,40 +85,109 @@ program pelatihan dan penyaluran kerja untuk berkarir di bidang teknologi.
 
 [Website](https://inacode.id) | [Instagram](https://www.instagram.com/inacode.id/) | [Facebook](https://www.facebook.com/inacode.id/) | [Github](https://github.com/inacode-id)
 
-
-
 ## J<a name="j"></a>
+
+### Jago Coding
+
+[Website](http://jagocoding.com/) | [Facebook](http://facebook.com/jagocoding) | [Twitter](https://twitter.com/jagocodingcom)
 
 ## K<a name="k"></a>
 
+### Koding Indonesia
+
+[Website](https://www.kodingindonesia.com/) | [Facebook](https://www.facebook.com/social.kodingindonesia) | [Youtube](https://www.youtube.com/channel/UCMcA3X2IyxNWiZBZmK0_KeQ) | [Github](https://github.com/koding-indonesia)
+
+### Kawan Koding
+
+[Website](https://kawankoding.com/)  | [Instagram](https://instagram.com/kawankoding) | [Facebook](https://instagram.com/kawankoding) | [Youtube](https://youtube.com/kawankoding) | [Telegram](https://t.me/kawankoding)
+
+### Konsep Koding
+
+[Website](https://www.konsepkoding.com/)
+
+
 ## L<a name="l"></a>
+
+
 
 ## M<a name="m"></a>
 
+### MalesCast
+
+[Website](https://malescast.com/) | [Facebook](https://www.facebook.com/malescast) | [Twitter](https://twitter.com/intent/user?screen_name=malescast)
+
+### Malas Ngoding
+
+[Website](https://www.malasngoding.com/) | [Instagram](https://www.instagram.com/malasngoding/) | [Facebook](https://www.facebook.com/malasngodingpage/) | [Youtube](https://www.youtube.com/malasngoding?sub_confirmation=1) | [Twitter](https://twitter.com/malasngoding) | [Github](https://github.com/malasngoding/)
+
 ## N<a name="n"></a>
+
+
 
 ## O<a name="o"></a>
 
+
+
 ## P<a name="p"></a>
+
+### Petani Kode
+
+[Website](https://www.petanikode.com/) | [Instagram](https://instagram.com/petanikode/) | [Youtube](https://www.youtube.com/petanikode) | [Facebook](https://www.facebook.com/petanikode) | [Twitter](https://twitter.com/petanikode) | [Telegram](https://t.me/petanikode)
+
+### Progate
+
+[Website](https://progate.com/) | [Instagram](https://www.instagram.com/progateID) | [Facebook](https://www.facebook.com/ProgateID/) | [Twitter](https://twitter.com/progateID)
+
+### PHP ID Jakarta
+
+[Website](https://phpid-jakarta.github.io/) | [Github](https://github.com/phpid-jakarta)
 
 ## Q<a name="q"></a>
 
+
+
 ## R<a name="r"></a>
+
+
 
 ## S<a name="s"></a>
 
+### Sekolah Koding
+
+[Website](https://sekolahkoding.com/)
+
 ## T<a name="t"></a>
+
+
 
 ## U<a name="u"></a>
 
+
+
 ## V<a name="v"></a>
+
+
 
 ## W<a name="w"></a>
 
+### Web Programming UNPAS 
+
+[Youtube](https://www.youtube.com/c/WebProgrammingUNPAS)
+
+### Wegodev
+
+[Website](https://www.wegodev.com/) | [Youtube](https://www.youtube.com/channel/UCs_0NrpKqceSAcO7mrJv-1g)
+
 ## X<a name="x"></a>
+
+
 
 ## Y<a name="y"></a>
 
+
+
 ## Z<a name="z"></a>
 
+
 ## Lain-lain<a name="lain"></a>
+
