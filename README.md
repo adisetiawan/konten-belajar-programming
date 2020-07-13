@@ -1,6 +1,6 @@
 # Website, konten, & komunitas seputar pemrograman di Indonesia
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
+[![Trakteer]](https://img.shields.io/badge/trakteer-10rb-orange) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
 
 Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui daftar,  silahkan `fork` dan `pull request`. Diurutkan berdasarkan alfabet
 
