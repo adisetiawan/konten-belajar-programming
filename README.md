@@ -197,6 +197,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## Z<a name="z"></a>
 
+### Zir Education
+
+[Youtube](https://www.youtube.com/c/ZirEducation)
 
 ## Lain-lain<a name="lain"></a>
 
