@@ -109,12 +109,17 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://kotakode.com/)
 
+### Kelas Terbuka
+
+[Youtube](https://www.youtube.com/c/KelasTerbuka)
+
 
 ## L<a name="l"></a>
 
 
 
 ## M<a name="m"></a>
+
 
 ### MalesCast
 
