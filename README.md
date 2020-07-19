@@ -155,6 +155,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://phpid-jakarta.github.io/) | [Github](https://github.com/phpid-jakarta)
 
+### Programmer Zaman Now
+
+[Youtube](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
+
 ## Q<a name="q"></a>
 
 
