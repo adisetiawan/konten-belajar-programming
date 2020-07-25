@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "balinux",
+      "name": "balinux",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10473273?v=4",
+      "profile": "https://yhotie.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "konten-belajar-programming",
+  "projectOwner": "adisetiawan",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
