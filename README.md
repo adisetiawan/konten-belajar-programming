@@ -159,6 +159,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
 
+### Pindai
+
+[Website](https://pindai.dev/)
+
 ## Q<a name="q"></a>
 
 
