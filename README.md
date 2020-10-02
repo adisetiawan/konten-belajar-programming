@@ -170,6 +170,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://www.pythonindo.com/)
 
+### Pintaar
+
+[Website](https://pintaar.com/) | [Instagram](https://www.instagram.com/pintaar101) | [Youtube](https://www.youtube.com/channel/UCQNbxp6a1Oo6GtZlQpeM8Rg)
+
 ## Q<a name="q"></a>
 
 
