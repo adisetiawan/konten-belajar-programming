@@ -34,6 +34,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://belajarkoding.com/) | [Instagram](https://instagram.com/belajarkoding) | [Youtube](https://youtube.com/belajarkoding) | [Telegram](https://t.me/komunitasbk)
 
+### Binar Academy
+
+[Website](https://www.binaracademy.com/) | [Instagram](http://instagram.com/academybinar) | [Facebook](https://www.facebook.com/binaracademy/) | [Twitter](https://twitter.com/academybinar) | [LinkedIn](https://www.linkedin.com/school/binar-academy/) | [Youtube](https://www.youtube.com/channel/UChzBj5A5-9Sr9ZYPjKa776g) | [Medium](https://medium.com/binar-academy)
+
 ## C<a name="c"></a>
 
 ### Codepolitan
@@ -79,6 +83,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 
 ## H<a name="h"></a>
+
+### Hacktiv8
+
+[Website](https://hacktiv8.com/) | [Instagram](https://www.instagram.com/hacktiv8id/) | [Facebook](https://www.facebook.com/hacktiv8id/) | [Twitter](https://twitter.com/hacktiv8id) | [Youtube](https://www.youtube.com/c/HACKTIV8)
 
 
 
