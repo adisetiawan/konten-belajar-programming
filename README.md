@@ -66,6 +66,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://daengweb.id/) | [Instagram](https://www.instagram.com/daengwebid/) | [Facebook](https://facebook.com/daengWebId/) | [Youtube](https://www.youtube.com/channel/UCHsijoukA4I8qdJoK6WW9Ww?view_as=subscriber) | [Github](https://github.com/daengwebid)
 
+### Deno Indonesia
+[Website](https://denoland.id/)
+
 ## E<a name="e"></a>
 
 
@@ -93,6 +96,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Jago Coding
 
 [Website](http://jagocoding.com/) | [Facebook](http://facebook.com/jagocoding) | [Twitter](https://twitter.com/jagocodingcom)
+
+### JavaScript Indonesia
+[Telegram](https://t.me/js_id)
 
 ## K<a name="k"></a>
 
@@ -138,6 +144,8 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## N<a name="n"></a>
 
+### NodeJS Indonesia
+[Telegram](https://t.me/nodejsid)
 
 
 ## O<a name="o"></a>
@@ -176,7 +184,8 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## R<a name="r"></a>
 
-
+### ReactJS Indonesia
+[Website](https://reactjs.id/)
 
 ## S<a name="s"></a>
 
@@ -184,8 +193,19 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://sekolahkoding.com/)
 
+### SurabayaJS
+[Website](https://surabayajs.org/) | [Twitter](https://twitter.com/surabaya_js) | [Discord](https://discord.gg/kx3qp5S)
+
+### Svelte Indonesia
+[Telegram](https://t.me/svelte_id)
+
+### SurabayaDev
+[Website](http://surabayadev.org/)
+
 ## T<a name="t"></a>
 
+### TypeScript Indonesia
+[Telegram](https://t.me/TypescriptIndonesia)
 
 
 ## U<a name="u"></a>
@@ -194,7 +214,8 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## V<a name="v"></a>
 
-
+### Vue Indonesia
+[Telegram](https://t.me/vuejsindonesia)
 
 ## W<a name="w"></a>
 
