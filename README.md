@@ -48,6 +48,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://codeberryschool.com/) | [Instagram](https://www.instagram.com/codeberryschool/) | [Facebook](https://www.facebook.com/CodeBerry-Indonesia-Sekolah-Pemrograman-CodeBerry-1999034517025000/)
 
+### Codingtive
+[Website](https://www.codingtive.com/) | [Instagram](https://www.instagram.com/codingtive/?hl=id) | [Facebook](https://web.facebook.com/codingtive/)
+
 ## D<a name="d"></a>
 
 ### Dicoding
@@ -100,6 +103,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://www.kodingindonesia.com/) | [Facebook](https://www.facebook.com/social.kodingindonesia) | [Youtube](https://www.youtube.com/channel/UCMcA3X2IyxNWiZBZmK0_KeQ) | [Github](https://github.com/koding-indonesia)
 
+### Kodingin
+[Website](https://kodingin.com/) | [Facebook](https://web.facebook.com/kodingin.dev/)
+
 ### Kawan Koding
 
 [Website](https://kawankoding.com/)  | [Instagram](https://instagram.com/kawankoding) | [Facebook](https://instagram.com/kawankoding) | [Youtube](https://youtube.com/kawankoding) | [Telegram](https://t.me/kawankoding)
@@ -146,6 +152,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## P<a name="p"></a>
 
+### Parsinta
+[Website](https://parsinta.com/) | [Youtube](https://www.youtube.com/channel/UCPlEbdgWOXkKEEl7dhBxs4Q)
+
 ### Petani Kode
 
 [Website](https://www.petanikode.com/) | [Instagram](https://instagram.com/petanikode/) | [Youtube](https://www.youtube.com/petanikode) | [Facebook](https://www.facebook.com/petanikode) | [Twitter](https://twitter.com/petanikode) | [Telegram](https://t.me/petanikode)
@@ -183,6 +192,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Sekolah Koding
 
 [Website](https://sekolahkoding.com/)
+
+### Sobatcode
+[Website](https://sobatcode.com/) | [Instagram](https://www.instagram.com/hallosobatcode/?hl=id) | [Youtube](https://www.youtube.com/channel/UCeitMznUheIc19EEKqXvD4Q)
 
 ## T<a name="t"></a>
 
