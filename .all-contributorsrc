@@ -13,6 +13,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "MedanLinux",
+      "name": "MedanLinux",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10473273?v=4",
+      "profile": "https://medan.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
