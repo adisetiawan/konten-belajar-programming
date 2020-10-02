@@ -170,6 +170,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://www.pythonindo.com/)
 
+### Parsinta
+[Website](https://parsinta.com) | [Youtube](https://www.youtube.com/channel/UCPlEbdgWOXkKEEl7dhBxs4Q)
+
 ## Q<a name="q"></a>
 
 
@@ -235,6 +238,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://yhotie.com"><img src="https://avatars2.githubusercontent.com/u/10473273?v=4" width="100px;" alt=""/><br /><sub><b>balinux</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=balinux" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/hafizcode02"><img src="https://avatars1.githubusercontent.com/u/53365353?s=460&u=595eb591ea8406cd3d149b1998faf25bacd0d482&v=4" width="100px;" alt=""/><br /><sub><b>Hafiz Caniago</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=balinux" title="Documentation">📖</a></td>
   </tr>
 </table>
 
