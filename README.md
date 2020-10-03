@@ -66,8 +66,15 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://daengweb.id/) | [Instagram](https://www.instagram.com/daengwebid/) | [Facebook](https://facebook.com/daengWebId/) | [Youtube](https://www.youtube.com/channel/UCHsijoukA4I8qdJoK6WW9Ww?view_as=subscriber) | [Github](https://github.com/daengwebid)
 
+### devindo
+
+[Youtube](https://www.youtube.com/channel/UCc0Hy5IPH65l05x170ZmiCw)
+
 ## E<a name="e"></a>
 
+### Erico Darmawan Handoyo
+
+[Youtube](https://www.youtube.com/channel/UC0s92eMIsyR9otmIiY4v8Ww)
 
 
 ## F<a name="f"></a>
