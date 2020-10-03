@@ -1,6 +1,6 @@
 # Website, konten, & komunitas seputar pemrograman di Indonesia
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Saweria](https://img.shields.io/badge/saweria-10rb-blue)](https://saweria.co/adisetiawan) [![Trakteer](https://img.shields.io/badge/trakteer-10rb-orange)](https://trakteer.id/inacode) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
@@ -33,6 +33,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Belajar Koding
 
 [Website](https://belajarkoding.com/) | [Instagram](https://instagram.com/belajarkoding) | [Youtube](https://youtube.com/belajarkoding) | [Telegram](https://t.me/komunitasbk)
+
+### Binar Academy
+
+[Website](https://www.binaracademy.com/) | [Instagram](http://instagram.com/academybinar) | [Facebook](https://www.facebook.com/binaracademy/) | [Twitter](https://twitter.com/academybinar) | [LinkedIn](https://www.linkedin.com/school/binar-academy/) | [Youtube](https://www.youtube.com/channel/UChzBj5A5-9Sr9ZYPjKa776g) | [Medium](https://medium.com/binar-academy)
 
 ## C<a name="c"></a>
 
@@ -69,8 +73,18 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://daengweb.id/) | [Instagram](https://www.instagram.com/daengwebid/) | [Facebook](https://facebook.com/daengWebId/) | [Youtube](https://www.youtube.com/channel/UCHsijoukA4I8qdJoK6WW9Ww?view_as=subscriber) | [Github](https://github.com/daengwebid)
 
+### Deno Indonesia
+[Website](https://denoland.id/)
+
+### devindo
+
+[Youtube](https://www.youtube.com/channel/UCc0Hy5IPH65l05x170ZmiCw)
+
 ## E<a name="e"></a>
 
+### Erico Darmawan Handoyo
+
+[Youtube](https://www.youtube.com/channel/UC0s92eMIsyR9otmIiY4v8Ww)
 
 
 ## F<a name="f"></a>
@@ -83,19 +97,33 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## H<a name="h"></a>
 
+### Hacktiv8
+
+[Website](https://hacktiv8.com/) | [Instagram](https://www.instagram.com/hacktiv8id/) | [Facebook](https://www.facebook.com/hacktiv8id/) | [Twitter](https://twitter.com/hacktiv8id) | [Youtube](https://www.youtube.com/c/HACKTIV8)
+
 
 
 ## I<a name="i"></a>
 
+### ID Stack
+
+[Youtube](https://www.youtube.com/channel/UC5xgusHHscTDAHxcxq6Dwdg) | [Website](https://idstack.net/)
+
 ### InaCode
 
 [Website](https://inacode.id) | [Instagram](https://www.instagram.com/inacode.id/) | [Facebook](https://www.facebook.com/inacode.id/) | [Github](https://github.com/inacode-id)
+
+### Idstack
+[Website](https://idstack.net/) | [Instagram](https://www.instagram.com/idstack/?hl=id) | [Facebook](https://www.facebook.com/idstack/) | [Github](https://github.com/lunadiotic/idstack)
 
 ## J<a name="j"></a>
 
 ### Jago Coding
 
 [Website](http://jagocoding.com/) | [Facebook](http://facebook.com/jagocoding) | [Twitter](https://twitter.com/jagocodingcom)
+
+### JavaScript Indonesia
+[Telegram](https://t.me/js_id)
 
 ## K<a name="k"></a>
 
@@ -144,6 +172,8 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## N<a name="n"></a>
 
+### NodeJS Indonesia
+[Telegram](https://t.me/nodejsid)
 
 
 ## O<a name="o"></a>
@@ -185,7 +215,8 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## R<a name="r"></a>
 
-
+### ReactJS Indonesia
+[Website](https://reactjs.id/)
 
 ## S<a name="s"></a>
 
@@ -196,8 +227,22 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Sobatcode
 [Website](https://sobatcode.com/) | [Instagram](https://www.instagram.com/hallosobatcode/?hl=id) | [Youtube](https://www.youtube.com/channel/UCeitMznUheIc19EEKqXvD4Q)
 
+### SurabayaJS
+[Website](https://surabayajs.org/) | [Twitter](https://twitter.com/surabaya_js) | [Discord](https://discord.gg/kx3qp5S)
+
+### Svelte Indonesia
+[Telegram](https://t.me/svelte_id)
+
+### SurabayaDev
+[Website](http://surabayadev.org/)
+
+### Santri Koding
+[Website](https://santrikoding.com/) 
+
 ## T<a name="t"></a>
 
+### TypeScript Indonesia
+[Telegram](https://t.me/TypescriptIndonesia)
 
 
 ## U<a name="u"></a>
@@ -206,13 +251,18 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## V<a name="v"></a>
 
-
+### Vue Indonesia
+[Telegram](https://t.me/vuejsindonesia)
 
 ## W<a name="w"></a>
 
 ### Web Programming UNPAS 
 
 [Youtube](https://www.youtube.com/c/WebProgrammingUNPAS)
+
+### w3schools 
+
+[Website](https://www.w3schools.com/)
 
 ### Wegodev
 
@@ -247,6 +297,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://yhotie.com"><img src="https://avatars2.githubusercontent.com/u/10473273?v=4" width="100px;" alt=""/><br /><sub><b>balinux</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=balinux" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://mochgunturpratama.com"><img src="https://avatars3.githubusercontent.com/u/43977991?v=4" width="100px;" alt=""/><br /><sub><b>Moch Guntur Pratama</b></sub></a><br /><a href="#infra-gunturpratama" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=gunturpratama" title="Tests">⚠️</a> <a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=gunturpratama" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/safitri02"><img src="https://avatars2.githubusercontent.com/u/48701660?v=4" width="100px;" alt=""/><br /><sub><b>Safitri</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=safitri02" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Munawir712"><img src="https://avatars0.githubusercontent.com/u/46591537?v=4" width="100px;" alt=""/><br /><sub><b>Munawir</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=Munawir712" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/kaliwa"><img src="https://avatars0.githubusercontent.com/u/49640654?v=4" width="100px;" alt=""/><br /><sub><b>Kalwabed Rizki</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=kaliwa" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/masuryasa"><img src="https://avatars0.githubusercontent.com/u/34471570?v=4" width="100px;" alt=""/><br /><sub><b>suryasa</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=masuryasa" title="Documentation">📖</a></td>
   </tr>
 </table>
 
