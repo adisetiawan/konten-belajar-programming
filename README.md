@@ -111,7 +111,7 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ### InaCode
 
-[Website](https://inacode.id) | [Instagram](https://www.instagram.com/inacode.id/) | [Facebook](https://www.facebook.com/inacode.id/) | [Github](https://github.com/inacode-id)
+[Website](https://inacode.dev) | [Instagram](https://www.instagram.com/inacode.dev/) | [Facebook](https://www.facebook.com/inacode.dev/) | [Github](https://github.com/inacode-dev)
 
 ### Idstack
 [Website](https://idstack.net/) | [Instagram](https://www.instagram.com/idstack/?hl=id) | [Facebook](https://www.facebook.com/idstack/) | [Github](https://github.com/lunadiotic/idstack)
