@@ -1,6 +1,6 @@
 # Website, konten, & komunitas seputar pemrograman di Indonesia
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Saweria](https://img.shields.io/badge/saweria-10rb-blue)](https://saweria.co/adisetiawan) [![Trakteer](https://img.shields.io/badge/trakteer-10rb-orange)](https://trakteer.id/inacode) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
@@ -302,6 +302,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Munawir712"><img src="https://avatars0.githubusercontent.com/u/46591537?v=4" width="100px;" alt=""/><br /><sub><b>Munawir</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=Munawir712" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/kaliwa"><img src="https://avatars0.githubusercontent.com/u/49640654?v=4" width="100px;" alt=""/><br /><sub><b>Kalwabed Rizki</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=kaliwa" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/masuryasa"><img src="https://avatars0.githubusercontent.com/u/34471570?v=4" width="100px;" alt=""/><br /><sub><b>suryasa</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=masuryasa" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.sobatcode.com"><img src="https://avatars1.githubusercontent.com/u/38874570?v=4" width="100px;" alt=""/><br /><sub><b>Wahyu Febrianto</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=wahyufeb" title="Documentation">📖</a></td>
   </tr>
 </table>
 
