@@ -84,6 +84,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## I<a name="i"></a>
 
+### ID Stack
+
+[Youtube](https://www.youtube.com/channel/UC5xgusHHscTDAHxcxq6Dwdg) | [Website](https://idstack.net/)
+
 ### InaCode
 
 [Website](https://inacode.id) | [Instagram](https://www.instagram.com/inacode.id/) | [Facebook](https://www.facebook.com/inacode.id/) | [Github](https://github.com/inacode-id)
@@ -207,6 +211,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Web Programming UNPAS 
 
 [Youtube](https://www.youtube.com/c/WebProgrammingUNPAS)
+
+### w3schools 
+
+[Website](https://www.w3schools.com/)
 
 ### Wegodev
 
