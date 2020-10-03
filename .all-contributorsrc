@@ -13,6 +13,35 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "gunturpratama",
+      "name": "Moch Guntur Pratama",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/43977991?v=4",
+      "profile": "https://mochgunturpratama.com",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "safitri02",
+      "name": "Safitri",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/48701660?v=4",
+      "profile": "https://github.com/safitri02",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Munawir712",
+      "name": "Munawir",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/46591537?v=4",
+      "profile": "https://github.com/Munawir712",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
