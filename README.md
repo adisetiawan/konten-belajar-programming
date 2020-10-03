@@ -88,6 +88,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://inacode.id) | [Instagram](https://www.instagram.com/inacode.id/) | [Facebook](https://www.facebook.com/inacode.id/) | [Github](https://github.com/inacode-id)
 
+### Idstack
+[Website](https://idstack.net/) | [Instagram](https://www.instagram.com/idstack/?hl=id) | [Facebook](https://www.facebook.com/idstack/) | [Github](https://github.com/lunadiotic/idstack)
+
 ## J<a name="j"></a>
 
 ### Jago Coding
@@ -183,6 +186,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Sekolah Koding
 
 [Website](https://sekolahkoding.com/)
+
+### Santri Koding
+[Website](https://santrikoding.com/) 
 
 ## T<a name="t"></a>
 
