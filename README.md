@@ -116,6 +116,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Idstack
 [Website](https://idstack.net/) | [Instagram](https://www.instagram.com/idstack/?hl=id) | [Facebook](https://www.facebook.com/idstack/) | [Github](https://github.com/lunadiotic/idstack)
 
+### Indobot
+
+[Website](https://indobot.co.id/) | [Instagram](https://www.instagram.com/indobot.co.id/) | [Facebook](https://web.facebook.com/indobot.co.id)
+
 ## J<a name="j"></a>
 
 ### Jago Coding
