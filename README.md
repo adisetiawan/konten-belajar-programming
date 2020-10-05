@@ -92,6 +92,8 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## F<a name="f"></a>
 
+### Flutter Indonesia
+[Facebook](https://www.facebook.com/groups/1738284952897937) | [Telegram](https://t.me/flutter_id)
 
 
 ## G<a name="g"></a>
