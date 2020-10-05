@@ -89,6 +89,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## F<a name="f"></a>
 
+### Framework Indonesia
+
+[Youtube](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A)
 
 
 ## G<a name="g"></a>
@@ -236,6 +239,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ### Svelte Indonesia
 [Telegram](https://t.me/svelte_id)
+
+### Sulaeman Santoso [Tutorial Framework JavaScript]
+[Youtube](https://www.youtube.com/user/sulaemansantoso)
 
 ### SurabayaDev
 [Website](http://surabayadev.org/)
