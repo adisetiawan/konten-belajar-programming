@@ -191,6 +191,8 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### NodeJS Indonesia
 [Telegram](https://t.me/nodejsid)
 
+### Niomic
+[Website](https://niomic.com/) | [Instagram](https://www.instagram.com/niomic_id/) | [Facebook](https://web.facebook.com/niomicID)
 
 ## O<a name="o"></a>
 
