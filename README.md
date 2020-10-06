@@ -128,9 +128,14 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://indobot.co.id/) | [Instagram](https://www.instagram.com/indobot.co.id/) | [Facebook](https://web.facebook.com/indobot.co.id)
 
+
+### Ipung Dev
+[Youtube](https://www.youtube.com/channel/UCghGcuAHaLoFid4TIICLu8A)
+
 ### Impact Byte
 
 [Website](https://impactbyte.com/id/home) | [Instagram](https://instagram.com/impactbyte) | [Facebook](https://web.facebook.com/impactbyte) | [Twitter](https://twitter.com/impactbyte) | [LinkedIn](https://linkedin.com/company/impactbyte) | [Youtube](https://www.youtube.com/channel/UCA4CMisjOmn-B2BahhG63Xw) | [Github](https://github.com/impactbyte)
+
 
 ## J<a name="j"></a>
 
@@ -193,6 +198,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ### Niomic
 [Website](https://niomic.com/) | [Instagram](https://www.instagram.com/niomic_id/) | [Facebook](https://web.facebook.com/niomicID)
+
+### Ngoding Pintar
+[Youtube](https://www.youtube.com/channel/UCPNxvt1OZMhVRzeBFK_VDig)
 
 ## O<a name="o"></a>
 
