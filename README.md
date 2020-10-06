@@ -1,6 +1,6 @@
 # Website, konten, & komunitas seputar pemrograman di Indonesia
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Saweria](https://img.shields.io/badge/saweria-10rb-blue)](https://saweria.co/adisetiawan) [![Trakteer](https://img.shields.io/badge/trakteer-10rb-orange)](https://trakteer.id/inacode) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
@@ -337,6 +337,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Aldhanekaa"><img src="https://avatars1.githubusercontent.com/u/67791514?v=4" width="100px;" alt=""/><br /><sub><b>Aldhaneka &#124; he/him</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=Aldhanekaa" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/divetri"><img src="https://avatars0.githubusercontent.com/u/54519415?v=4" width="100px;" alt=""/><br /><sub><b>Divetri Ayu Rahmawati</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=divetri" title="Documentation">📖</a></td>
     <td align="center"><a href="http://youtube.com/abdulazizahwanid"><img src="https://avatars1.githubusercontent.com/u/32432134?v=4" width="100px;" alt=""/><br /><sub><b>Abdul Aziz Ahwan</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=abdulazizahwan" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://ini.space/hadyd"><img src="https://avatars0.githubusercontent.com/u/62197750?v=4" width="100px;" alt=""/><br /><sub><b>Anur Al Hadyd</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=hadyd" title="Documentation">📖</a></td>
   </tr>
 </table>
 
