@@ -1,6 +1,6 @@
 # Website, konten, & komunitas seputar pemrograman di Indonesia
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Saweria](https://img.shields.io/badge/saweria-10rb-blue)](https://saweria.co/adisetiawan) [![Trakteer](https://img.shields.io/badge/trakteer-10rb-orange)](https://trakteer.id/inacode) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
@@ -92,10 +92,12 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## F<a name="f"></a>
 
+### Flutter Indonesia
+[Facebook](https://www.facebook.com/groups/1738284952897937) | [Telegram](https://t.me/flutter_id)
+
 ### Framework Indonesia
 
 [Youtube](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A)
-
 
 ## G<a name="g"></a>
 
@@ -126,8 +128,14 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://indobot.co.id/) | [Instagram](https://www.instagram.com/indobot.co.id/) | [Facebook](https://web.facebook.com/indobot.co.id)
 
+
 ### Ipung Dev
 [Youtube](https://www.youtube.com/channel/UCghGcuAHaLoFid4TIICLu8A)
+
+### Impact Byte
+
+[Website](https://impactbyte.com/id/home) | [Instagram](https://instagram.com/impactbyte) | [Facebook](https://web.facebook.com/impactbyte) | [Twitter](https://twitter.com/impactbyte) | [LinkedIn](https://linkedin.com/company/impactbyte) | [Youtube](https://www.youtube.com/channel/UCA4CMisjOmn-B2BahhG63Xw) | [Github](https://github.com/impactbyte)
+
 
 ## J<a name="j"></a>
 
@@ -230,6 +238,11 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Pintaar
 
 [Website](https://pintaar.com/) | [Instagram](https://www.instagram.com/pintaar101) | [Youtube](https://www.youtube.com/channel/UCQNbxp6a1Oo6GtZlQpeM8Rg)
+
+### Prawito Hudoro
+
+[Youtube](https://www.youtube.com/user/prawitohudoro)
+
 
 ## Q<a name="q"></a>
 
@@ -334,6 +347,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Aldhanekaa"><img src="https://avatars1.githubusercontent.com/u/67791514?v=4" width="100px;" alt=""/><br /><sub><b>Aldhaneka &#124; he/him</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=Aldhanekaa" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/divetri"><img src="https://avatars0.githubusercontent.com/u/54519415?v=4" width="100px;" alt=""/><br /><sub><b>Divetri Ayu Rahmawati</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=divetri" title="Documentation">📖</a></td>
     <td align="center"><a href="http://youtube.com/abdulazizahwanid"><img src="https://avatars1.githubusercontent.com/u/32432134?v=4" width="100px;" alt=""/><br /><sub><b>Abdul Aziz Ahwan</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=abdulazizahwan" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://ini.space/hadyd"><img src="https://avatars0.githubusercontent.com/u/62197750?v=4" width="100px;" alt=""/><br /><sub><b>Anur Al Hadyd</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=hadyd" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/gusmantoro"><img src="https://avatars3.githubusercontent.com/u/31771164?v=4" width="100px;" alt=""/><br /><sub><b>Tri Cahyo Gusmantoro</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=gusmantoro" title="Documentation">📖</a></td>
   </tr>
 </table>
 

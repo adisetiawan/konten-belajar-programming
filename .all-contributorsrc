@@ -105,6 +105,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "hadyd",
+      "name": "Anur Al Hadyd",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/62197750?v=4",
+      "profile": "https://ini.space/hadyd",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "gusmantoro",
+      "name": "Tri Cahyo Gusmantoro",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/31771164?v=4",
+      "profile": "https://github.com/gusmantoro",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
