@@ -128,6 +128,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://indobot.co.id/) | [Instagram](https://www.instagram.com/indobot.co.id/) | [Facebook](https://web.facebook.com/indobot.co.id)
 
+### Impact Byte
+
+[Website](https://impactbyte.com/id/home) | [Instagram](https://instagram.com/impactbyte) | [Facebook](https://web.facebook.com/impactbyte) | [Twitter](https://twitter.com/impactbyte) | [LinkedIn](https://linkedin.com/company/impactbyte) | [Youtube](https://www.youtube.com/channel/UCA4CMisjOmn-B2BahhG63Xw) | [Github](https://github.com/impactbyte)
+
 ## J<a name="j"></a>
 
 ### Jago Coding
@@ -224,6 +228,11 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Pintaar
 
 [Website](https://pintaar.com/) | [Instagram](https://www.instagram.com/pintaar101) | [Youtube](https://www.youtube.com/channel/UCQNbxp6a1Oo6GtZlQpeM8Rg)
+
+### Prawito Hudoro
+
+[Youtube](https://www.youtube.com/user/prawitohudoro)
+
 
 ## Q<a name="q"></a>
 
