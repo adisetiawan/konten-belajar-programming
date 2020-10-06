@@ -126,6 +126,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://indobot.co.id/) | [Instagram](https://www.instagram.com/indobot.co.id/) | [Facebook](https://web.facebook.com/indobot.co.id)
 
+### Ipung Dev
+[Youtube](https://www.youtube.com/channel/UCghGcuAHaLoFid4TIICLu8A)
+
 ## J<a name="j"></a>
 
 ### Jago Coding
@@ -187,6 +190,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ### Niomic
 [Website](https://niomic.com/) | [Instagram](https://www.instagram.com/niomic_id/) | [Facebook](https://web.facebook.com/niomicID)
+
+### Ngoding Pintar
+[Youtube](https://www.youtube.com/channel/UCPNxvt1OZMhVRzeBFK_VDig)
 
 ## O<a name="o"></a>
 
