@@ -132,6 +132,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ryanadhi",
+      "name": "Ryan Adhi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/35433920?v=4",
+      "profile": "https://www.ryanadhi.tech/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
