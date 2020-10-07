@@ -251,7 +251,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ## R<a name="r"></a>
 
 ### ReactJS Indonesia
-[Website](https://reactjs.id/)
+[Website](https://reactjs.id/) | [Telegram](https://t.me/react_id)
+
+### Riza Fahmi
+[Youtube](https://www.youtube.com/c/RizaFahmi/)
 
 ## S<a name="s"></a>
 
