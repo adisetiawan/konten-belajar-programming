@@ -14,11 +14,11 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ### Android Developer Nasional
 
-[Facebook](https://web.facebook.com/groups/492319508150967/) | [Telegram](t.me/androiddevelopernasional)
+[Facebook](https://web.facebook.com/groups/492319508150967/) | [Telegram](https://t.me/androiddevelopernasional)
 
 ### Apple Swift Indonesia
 
-[Telegram](t.me/swiftID)
+[Telegram](https://t.me/swiftID)
 
 ### Arkademy
 
