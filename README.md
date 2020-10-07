@@ -250,13 +250,21 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/user/prawitohudoro)
 
+### Purwadhika
+
+[Website](https://purwadhika.com/job-connector-web-mobile-development) | [Youtube](https://www.youtube.com/channel/UCzDNsDnN55mXW65zSGAnHeQ)
+
 ## Q<a name="q"></a>
 
 ## R<a name="r"></a>
 
 ### ReactJS Indonesia
 
-[Website](https://reactjs.id/)
+[Website](https://reactjs.id/) | [Telegram](https://t.me/react_id)
+
+### Riza Fahmi
+
+[Youtube](https://www.youtube.com/c/RizaFahmi/)
 
 ## S<a name="s"></a>
 
