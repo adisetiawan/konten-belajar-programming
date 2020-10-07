@@ -243,6 +243,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/user/prawitohudoro)
 
+### Purwadhika
+
+[Website](https://purwadhika.com/job-connector-web-mobile-development) | [Youtube](https://www.youtube.com/channel/UCzDNsDnN55mXW65zSGAnHeQ)
+
 
 ## Q<a name="q"></a>
 
