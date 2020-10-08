@@ -100,6 +100,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/channel/UC0s92eMIsyR9otmIiY4v8Ww)
 
+### EDMTDev
+
+[Youtube](https://www.youtube.com/channel/UCllewj2bGdqB8U9Ld15INAg)
+
 ## F<a name="f"></a>
 
 ### Flutter Indonesia
