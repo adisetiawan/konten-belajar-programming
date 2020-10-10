@@ -340,6 +340,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/channel/UCb3Iy1DToXEILZYfByBM6dw)
 
+### YukCoding
+
+[Website](https://yukcoding.id/) | [Telegram](https://t.me/yukcodingID) | [Instagram](https://www.instagram.com/yukcoding/)
+
 ## Z<a name="z"></a>
 
 ### Zir Education
