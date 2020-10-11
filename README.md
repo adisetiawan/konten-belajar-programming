@@ -46,6 +46,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://www.binaracademy.com/) | [Instagram](http://instagram.com/academybinar) | [Facebook](https://www.facebook.com/binaracademy/) | [Twitter](https://twitter.com/academybinar) | [LinkedIn](https://www.linkedin.com/school/binar-academy/) | [Youtube](https://www.youtube.com/channel/UChzBj5A5-9Sr9ZYPjKa776g) | [Medium](https://medium.com/binar-academy)
 
+### Badoy Studio
+
+[Website](https://badoystudio.com/) | [Facebook](https://facebook.com/badoystudio) | [Youtube](https://www.youtube.com/channel/UCU_WErTDbkPzjrd4j_t5c9Q)
+
 ## C<a name="c"></a>
 
 ### Codepolitan
@@ -93,6 +97,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### devindo
 
 [Youtube](https://www.youtube.com/channel/UCc0Hy5IPH65l05x170ZmiCw)
+
+### Digitalkode
+
+[Website](https://www.digitalkode.com/) | [Facebook](https://www.facebook.com/digitalkode) | [Instagram](https://www.instagram.com/digitalkode) | [Twitter](https://www.twitter.com/digitalkode)
 
 ## E<a name="e"></a>
 
@@ -383,6 +391,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/cokagung30"><img src="https://avatars0.githubusercontent.com/u/50937866?v=4" width="100px;" alt=""/><br /><sub><b>cokagung30</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=cokagung30" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/rinolvy"><img src="https://avatars3.githubusercontent.com/u/50629099?v=4" width="100px;" alt=""/><br /><sub><b>Rino Satya Putra</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=rinolvy" title="Documentation">📖</a></td>
     <td align="center"><a href="https://leonanta.github.io"><img src="https://avatars3.githubusercontent.com/u/38516775?v=4" width="100px;" alt=""/><br /><sub><b>Leonanta Pramudya Kusuma</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=leoprananta" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://fliwpage.firebaseapp.com/"><img src="https://avatars3.githubusercontent.com/u/56640907?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Rafly Indrawan</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=fliw" title="Documentation">📖</a></td>
   </tr>
 </table>
 
