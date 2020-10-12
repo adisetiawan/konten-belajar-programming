@@ -231,7 +231,7 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ### Sekolah Koding
 
-[Website](https://sekolahkoding.com/)
+[Website](https://sekolahkoding.com/) | [Instagram](https://www.instagram.com/sekolahkoding/) | [YouTube](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
 
 ### Sobatcode
 [Website](https://sobatcode.com/) | [Instagram](https://www.instagram.com/hallosobatcode/?hl=id) | [Youtube](https://www.youtube.com/channel/UCeitMznUheIc19EEKqXvD4Q)
