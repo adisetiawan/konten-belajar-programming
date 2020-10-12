@@ -1,6 +1,6 @@
 # Website, konten, & komunitas seputar pemrograman di Indonesia
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Saweria](https://img.shields.io/badge/saweria-10rb-blue)](https://saweria.co/adisetiawan) [![Trakteer](https://img.shields.io/badge/trakteer-10rb-orange)](https://trakteer.id/inacode) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
@@ -95,6 +95,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Flutter Indonesia
 [Facebook](https://www.facebook.com/groups/1738284952897937) | [Telegram](https://t.me/flutter_id)
 
+### Framework Indonesia
+
+[Youtube](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A)
 
 ## G<a name="g"></a>
 
@@ -120,6 +123,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ### Idstack
 [Website](https://idstack.net/) | [Instagram](https://www.instagram.com/idstack/?hl=id) | [Facebook](https://www.facebook.com/idstack/) | [Github](https://github.com/lunadiotic/idstack)
+
+### Indobot
+
+[Website](https://indobot.co.id/) | [Instagram](https://www.instagram.com/indobot.co.id/) | [Facebook](https://web.facebook.com/indobot.co.id)
 
 ## J<a name="j"></a>
 
@@ -242,6 +249,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Svelte Indonesia
 [Telegram](https://t.me/svelte_id)
 
+### Sulaeman Santoso [Tutorial Framework JavaScript]
+[Youtube](https://www.youtube.com/user/sulaemansantoso)
+
 ### SurabayaDev
 [Website](http://surabayadev.org/)
 
@@ -315,6 +325,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://wonderwoman.team"><img src="https://avatars0.githubusercontent.com/u/35220738?v=4" width="100px;" alt=""/><br /><sub><b>iNath</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=nat9h" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Aldhanekaa"><img src="https://avatars1.githubusercontent.com/u/67791514?v=4" width="100px;" alt=""/><br /><sub><b>Aldhaneka &#124; he/him</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=Aldhanekaa" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/divetri"><img src="https://avatars0.githubusercontent.com/u/54519415?v=4" width="100px;" alt=""/><br /><sub><b>Divetri Ayu Rahmawati</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=divetri" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://youtube.com/abdulazizahwanid"><img src="https://avatars1.githubusercontent.com/u/32432134?v=4" width="100px;" alt=""/><br /><sub><b>Abdul Aziz Ahwan</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=abdulazizahwan" title="Documentation">📖</a></td>
   </tr>
 </table>
 
