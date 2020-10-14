@@ -214,6 +214,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/channel/UCPNxvt1OZMhVRzeBFK_VDig)
 
+### Nusendra.com
+
+[Youtube](https://www.youtube.com/channel/UCPs91pCgbgtcSdnczFSAkdA)
+
 ## O<a name="o"></a>
 
 ## P<a name="p"></a>
