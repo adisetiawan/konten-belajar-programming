@@ -116,6 +116,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## G<a name="g"></a>
 
+### Golang Indonesia
+
+[Telegram](https://t.me/golangID)
+
 ## H<a name="h"></a>
 
 ### Hacktiv8
@@ -143,6 +147,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Ipung Dev
 
 [Youtube](https://www.youtube.com/channel/UCghGcuAHaLoFid4TIICLu8A)
+
+### Ionic Indonesia
+
+[Telegram](https://t.me/indonesiaionic)
 
 ### Impact Byte
 
@@ -180,6 +188,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://kotakode.com/)
 
+### Kotlin Indonesia
+
+[Website](https://www.kotlin.id) | [Telegram](https://t.me/KotlinID)
+
 ### Kelas Terbuka
 
 [Youtube](https://www.youtube.com/c/KelasTerbuka)
@@ -187,6 +199,8 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Kampus Koding
 
 [Youtube](https://www.youtube.com/channel/UCEnbUTEcbS8fAQxgsKQI7Sw)
+
+
 
 ## L<a name="l"></a>
 
