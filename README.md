@@ -164,6 +164,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://impactbyte.com/id/home) | [Instagram](https://instagram.com/impactbyte) | [Facebook](https://web.facebook.com/impactbyte) | [Twitter](https://twitter.com/impactbyte) | [LinkedIn](https://linkedin.com/company/impactbyte) | [Youtube](https://www.youtube.com/channel/UCA4CMisjOmn-B2BahhG63Xw) | [Github](https://github.com/impactbyte)
 
+### Idr corner
+
+[Youtube](https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg)
+
 ## J<a name="j"></a>
 
 ### Jago Coding
@@ -207,6 +211,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Kampus Koding
 
 [Youtube](https://www.youtube.com/channel/UCEnbUTEcbS8fAQxgsKQI7Sw)
+
+### Khairullah
+
+[Youtube](https://www.youtube.com/channel/UC4hD-lN-gBMBKbOp8mZgDLg)
 
 
 
