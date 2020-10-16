@@ -391,7 +391,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/cokagung30"><img src="https://avatars0.githubusercontent.com/u/50937866?v=4" width="100px;" alt=""/><br /><sub><b>cokagung30</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=cokagung30" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/rinolvy"><img src="https://avatars3.githubusercontent.com/u/50629099?v=4" width="100px;" alt=""/><br /><sub><b>Rino Satya Putra</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=rinolvy" title="Documentation">📖</a></td>
     <td align="center"><a href="https://leonanta.github.io"><img src="https://avatars3.githubusercontent.com/u/38516775?v=4" width="100px;" alt=""/><br /><sub><b>Leonanta Pramudya Kusuma</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=leoprananta" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://fliwpage.firebaseapp.com/"><img src="https://avatars3.githubusercontent.com/u/56640907?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Rafly Indrawan</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=fliw" title="Documentation">📖</a></td>
   </tr>
 </table>
 
