@@ -46,6 +46,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://www.binaracademy.com/) | [Instagram](http://instagram.com/academybinar) | [Facebook](https://www.facebook.com/binaracademy/) | [Twitter](https://twitter.com/academybinar) | [LinkedIn](https://www.linkedin.com/school/binar-academy/) | [Youtube](https://www.youtube.com/channel/UChzBj5A5-9Sr9ZYPjKa776g) | [Medium](https://medium.com/binar-academy)
 
+### Badoy Studio
+
+[Website](https://badoystudio.com/) | [Facebook](https://facebook.com/badoystudio) | [Youtube](https://www.youtube.com/channel/UCU_WErTDbkPzjrd4j_t5c9Q)
+
 ## C<a name="c"></a>
 
 ### Codepolitan
@@ -93,6 +97,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### devindo
 
 [Youtube](https://www.youtube.com/channel/UCc0Hy5IPH65l05x170ZmiCw)
+
+### Digitalkode
+
+[Website](https://www.digitalkode.com/) | [Facebook](https://www.facebook.com/digitalkode) | [Instagram](https://www.instagram.com/digitalkode) | [Twitter](https://www.twitter.com/digitalkode)
 
 ## E<a name="e"></a>
 
