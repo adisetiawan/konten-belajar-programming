@@ -320,6 +320,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://reactjs.id/) | [Telegram](https://t.me/react_id)
 
+### Remote Worker Indonesia
+
+[Website](https://remoteworker.id/) | [Instagram](https://www.instagram.com/remoteworker.id/) | [Youtube](https://www.youtube.com/channel/UCCo6j_AjJWgByfMXZaidFKw) | [Facebook](https://www.facebook.com/remoteworkerid) | [Twitter](https://twitter.com/remoteworkerid)
+
 ### Riza Fahmi
 
 [Youtube](https://www.youtube.com/c/RizaFahmi/)
