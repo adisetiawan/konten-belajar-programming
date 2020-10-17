@@ -116,6 +116,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/channel/UCllewj2bGdqB8U9Ld15INAg)
 
+### Eudeka
+
+[Website](https://www.eudeka.id/) | [Facebook](https://www.facebook.com/eudeka.id) | [Instagram](https://instagram.com/eudeka.id) | [Twitter](https://twitter.com/eudekaid)
+
 ## F<a name="f"></a>
 
 ### Flutter Indonesia
