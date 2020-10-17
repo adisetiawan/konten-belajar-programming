@@ -1,7 +1,7 @@
 # Website, konten, & komunitas seputar pemrograman di Indonesia
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Saweria](https://img.shields.io/badge/saweria-10rb-blue)](https://saweria.co/adisetiawan) [![Trakteer](https://img.shields.io/badge/trakteer-10rb-orange)](https://trakteer.id/inacode) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
@@ -432,6 +432,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://fliwcv.web.app/"><img src="https://avatars3.githubusercontent.com/u/56640907?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Rafly Indrawan</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=Fliw" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/YafiAzka"><img src="https://avatars0.githubusercontent.com/u/72979354?v=4" width="100px;" alt=""/><br /><sub><b>YafiAzka</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=YafiAzka" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ilhamday"><img src="https://avatars0.githubusercontent.com/u/44486212?v=4" width="100px;" alt=""/><br /><sub><b>Ilham Ferry</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=ilhamday" title="Documentation">📖</a></td>
   </tr>
 </table>
 
