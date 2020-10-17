@@ -16,6 +16,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Facebook](https://web.facebook.com/groups/492319508150967/) | [Telegram](https://t.me/androiddevelopernasional)
 
+### Android Developer Kalimantan Selatan
+
+[Telegram](https://t.me/androiddevkalsel) | [Youtube](https://youtube.com/channel/UCt-63YvtdUlG1R2E6mjGARQ)
+
 ### Apple Swift Indonesia
 
 [Telegram](https://t.me/swiftID)
@@ -111,6 +115,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### EDMTDev
 
 [Youtube](https://www.youtube.com/channel/UCllewj2bGdqB8U9Ld15INAg)
+
+### Eudeka
+
+[Website](https://www.eudeka.id/) | [Facebook](https://www.facebook.com/eudeka.id) | [Instagram](https://instagram.com/eudeka.id) | [Twitter](https://twitter.com/eudekaid)
 
 ## F<a name="f"></a>
 
