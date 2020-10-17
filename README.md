@@ -16,6 +16,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Facebook](https://web.facebook.com/groups/492319508150967/) | [Telegram](https://t.me/androiddevelopernasional)
 
+### Android Developer Kalimantan Selatan
+
+[Telegram](https://t.me/androiddevkalsel) | [Youtube](https://youtube.com/channel/UCt-63YvtdUlG1R2E6mjGARQ)
+
 ### Apple Swift Indonesia
 
 [Telegram](https://t.me/swiftID)
