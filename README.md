@@ -300,6 +300,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://pasuruandev.github.io/) | [Instagram](https://www.instagram.com/pasuruan.dev) | [Facebook](https://www.facebook.com/PasuruanDev/) | [Github](https://github.com/pasuruandev) | [Telegram](https://t.me/pasuruandev)
 
+### Python Jogja
+
+[Youtube](https://www.youtube.com/PythonIDJogja) | [Instagram](https://www.instagram.com/pyjogja/) | [Telegram](https://t.me/pyjogja) | [Twitter](https://twitter.com/pyjogja)
+
 ## Q<a name="q"></a>
 
 ## R<a name="r"></a>
