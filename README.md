@@ -354,10 +354,6 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## U<a name="u"></a>
 
-### Uda Koding
-
-[Website](http://www.udacoding.com/) | [Instagram](https://www.instagram.com/udacoding_id) | [Facebook](https://www.facebook.com/Udacoding-190792715124644/) | [LinkedIn](https://www.linkedin.com/company/udacoding/)
-
 ## V<a name="v"></a>
 
 ### Vue Indonesia
