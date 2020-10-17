@@ -308,6 +308,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://reactjs.id/) | [Telegram](https://t.me/react_id)
 
+### Remote Worker Indonesia
+
+[Website](https://remoteworker.id/) | [Instagram](https://www.instagram.com/remoteworker.id/) | [Youtube](https://www.youtube.com/channel/UCCo6j_AjJWgByfMXZaidFKw) | [Facebook](https://www.facebook.com/remoteworkerid) | [Twitter](https://twitter.com/remoteworkerid)
+
 ### Riza Fahmi
 
 [Youtube](https://www.youtube.com/c/RizaFahmi/)
@@ -349,6 +353,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 [Telegram](https://t.me/TypescriptIndonesia)
 
 ## U<a name="u"></a>
+
+### Uda Koding
+
+[Website](http://www.udacoding.com/) | [Instagram](https://www.instagram.com/udacoding_id) | [Facebook](https://www.facebook.com/Udacoding-190792715124644/) | [LinkedIn](https://www.linkedin.com/company/udacoding/)
 
 ## V<a name="v"></a>
 
