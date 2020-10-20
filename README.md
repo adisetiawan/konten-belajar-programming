@@ -106,6 +106,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://www.digitalkode.com/) | [Facebook](https://www.facebook.com/digitalkode) | [Instagram](https://www.instagram.com/digitalkode) | [Twitter](https://www.twitter.com/digitalkode)
 
+### DQLab
+
+[Website](https://dqlab.id/) | [Instagram](https://www.instagram.com/dqlab/) | [Facebook](https://web.facebook.com/DQLab.ID) | [LinkedIn](https://www.linkedin.com/company/dqlab/)
+
 ## E<a name="e"></a>
 
 ### Erico Darmawan Handoyo
