@@ -1,7 +1,7 @@
 # Website, konten, & komunitas seputar pemrograman di Indonesia
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Saweria](https://img.shields.io/badge/saweria-10rb-blue)](https://saweria.co/adisetiawan) [![Trakteer](https://img.shields.io/badge/trakteer-10rb-orange)](https://trakteer.id/inacode) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
@@ -15,6 +15,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Android Developer Nasional
 
 [Facebook](https://web.facebook.com/groups/492319508150967/) | [Telegram](https://t.me/androiddevelopernasional)
+
+### Android Developer Kalimantan Selatan
+
+[Telegram](https://t.me/androiddevkalsel) | [Youtube](https://youtube.com/channel/UCt-63YvtdUlG1R2E6mjGARQ)
 
 ### Apple Swift Indonesia
 
@@ -45,6 +49,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Binar Academy
 
 [Website](https://www.binaracademy.com/) | [Instagram](http://instagram.com/academybinar) | [Facebook](https://www.facebook.com/binaracademy/) | [Twitter](https://twitter.com/academybinar) | [LinkedIn](https://www.linkedin.com/school/binar-academy/) | [Youtube](https://www.youtube.com/channel/UChzBj5A5-9Sr9ZYPjKa776g) | [Medium](https://medium.com/binar-academy)
+
+### Badoy Studio
+
+[Website](https://badoystudio.com/) | [Facebook](https://facebook.com/badoystudio) | [Youtube](https://www.youtube.com/channel/UCU_WErTDbkPzjrd4j_t5c9Q)
 
 ## C<a name="c"></a>
 
@@ -94,6 +102,14 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/channel/UCc0Hy5IPH65l05x170ZmiCw)
 
+### Digitalkode
+
+[Website](https://www.digitalkode.com/) | [Facebook](https://www.facebook.com/digitalkode) | [Instagram](https://www.instagram.com/digitalkode) | [Twitter](https://www.twitter.com/digitalkode)
+
+### DQLab
+
+[Website](https://dqlab.id/) | [Instagram](https://www.instagram.com/dqlab/) | [Facebook](https://web.facebook.com/DQLab.ID) | [LinkedIn](https://www.linkedin.com/company/dqlab/)
+
 ## E<a name="e"></a>
 
 ### Erico Darmawan Handoyo
@@ -103,6 +119,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### EDMTDev
 
 [Youtube](https://www.youtube.com/channel/UCllewj2bGdqB8U9Ld15INAg)
+
+### Eudeka
+
+[Website](https://www.eudeka.id/) | [Facebook](https://www.facebook.com/eudeka.id) | [Instagram](https://instagram.com/eudeka.id) | [Twitter](https://twitter.com/eudekaid)
 
 ## F<a name="f"></a>
 
@@ -117,6 +137,7 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ## G<a name="g"></a>
 
 ### Golang Indonesia
+
 [Telegram](https://t.me/golangID)
 
 ## H<a name="h"></a>
@@ -147,9 +168,17 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/channel/UCghGcuAHaLoFid4TIICLu8A)
 
+### Ionic Indonesia
+
+[Telegram](https://t.me/indonesiaionic)
+
 ### Impact Byte
 
 [Website](https://impactbyte.com/id/home) | [Instagram](https://instagram.com/impactbyte) | [Facebook](https://web.facebook.com/impactbyte) | [Twitter](https://twitter.com/impactbyte) | [LinkedIn](https://linkedin.com/company/impactbyte) | [Youtube](https://www.youtube.com/channel/UCA4CMisjOmn-B2BahhG63Xw) | [Github](https://github.com/impactbyte)
+
+### Idr corner
+
+[Youtube](https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg)
 
 ## J<a name="j"></a>
 
@@ -183,9 +212,23 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://kotakode.com/)
 
+### Kotlin Indonesia
+
+[Website](https://www.kotlin.id) | [Telegram](https://t.me/KotlinID)
+
 ### Kelas Terbuka
 
 [Youtube](https://www.youtube.com/c/KelasTerbuka)
+
+### Kampus Koding
+
+[Youtube](https://www.youtube.com/channel/UCEnbUTEcbS8fAQxgsKQI7Sw)
+
+### Khairullah
+
+[Youtube](https://www.youtube.com/channel/UC4hD-lN-gBMBKbOp8mZgDLg)
+
+
 
 ## L<a name="l"></a>
 
@@ -269,6 +312,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://pasuruandev.github.io/) | [Instagram](https://www.instagram.com/pasuruan.dev) | [Facebook](https://www.facebook.com/PasuruanDev/) | [Github](https://github.com/pasuruandev) | [Telegram](https://t.me/pasuruandev)
 
+### Python Jogja
+
+[Youtube](https://www.youtube.com/PythonIDJogja) | [Instagram](https://www.instagram.com/pyjogja/) | [Telegram](https://t.me/pyjogja) | [Twitter](https://twitter.com/pyjogja)
+
 ## Q<a name="q"></a>
 
 ## R<a name="r"></a>
@@ -276,6 +323,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### ReactJS Indonesia
 
 [Website](https://reactjs.id/) | [Telegram](https://t.me/react_id)
+
+### Remote Worker Indonesia
+
+[Website](https://remoteworker.id/) | [Instagram](https://www.instagram.com/remoteworker.id/) | [Youtube](https://www.youtube.com/channel/UCCo6j_AjJWgByfMXZaidFKw) | [Facebook](https://www.facebook.com/remoteworkerid) | [Twitter](https://twitter.com/remoteworkerid)
 
 ### Riza Fahmi
 
@@ -285,7 +336,7 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ### Sekolah Koding
 
-[Website](https://sekolahkoding.com/)
+[Website](https://sekolahkoding.com/) | [Instagram](https://www.instagram.com/sekolahkoding/) | [YouTube](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
 
 ### Sobatcode
 
@@ -390,6 +441,17 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/cokagung30"><img src="https://avatars0.githubusercontent.com/u/50937866?v=4" width="100px;" alt=""/><br /><sub><b>cokagung30</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=cokagung30" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/rinolvy"><img src="https://avatars3.githubusercontent.com/u/50629099?v=4" width="100px;" alt=""/><br /><sub><b>Rino Satya Putra</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=rinolvy" title="Documentation">📖</a></td>
     <td align="center"><a href="https://leonanta.github.io"><img src="https://avatars3.githubusercontent.com/u/38516775?v=4" width="100px;" alt=""/><br /><sub><b>Leonanta Pramudya Kusuma</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=leoprananta" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/priooarief/"><img src="https://avatars0.githubusercontent.com/u/49262552?v=4" width="100px;" alt=""/><br /><sub><b>Prio Arief Gunawan</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=prioarief" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/atikadwicahya"><img src="https://avatars0.githubusercontent.com/u/53210051?v=4" width="100px;" alt=""/><br /><sub><b>atika dwi cahyani</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=atikadwicahya" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://itnesia.id"><img src="https://avatars1.githubusercontent.com/u/47622164?v=4" width="100px;" alt=""/><br /><sub><b>Jeffry Gunawan</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=jeffrywu28" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://fliwcv.web.app/"><img src="https://avatars3.githubusercontent.com/u/56640907?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Rafly Indrawan</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=Fliw" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/YafiAzka"><img src="https://avatars0.githubusercontent.com/u/72979354?v=4" width="100px;" alt=""/><br /><sub><b>YafiAzka</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=YafiAzka" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ilhamday"><img src="https://avatars0.githubusercontent.com/u/44486212?v=4" width="100px;" alt=""/><br /><sub><b>Ilham Ferry</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=ilhamday" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://medium.com/@firdaus1453"><img src="https://avatars1.githubusercontent.com/u/20089079?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Firdaus</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=firdaus1453" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://rwand.rumahrobotik.com/"><img src="https://avatars0.githubusercontent.com/u/22952485?v=4" width="100px;" alt=""/><br /><sub><b>Eri Wandri</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=w4ndry" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/roufroufrouf"><img src="https://avatars0.githubusercontent.com/u/28399842?v=4" width="100px;" alt=""/><br /><sub><b>Abdurrouf</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=roufroufrouf" title="Documentation">📖</a></td>
   </tr>
 </table>
 
