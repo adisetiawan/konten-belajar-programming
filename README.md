@@ -116,6 +116,9 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## G<a name="g"></a>
 
+### Golang Indonesia
+[Telegram](https://t.me/golangID)
+
 ## H<a name="h"></a>
 
 ### Hacktiv8
