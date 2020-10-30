@@ -180,6 +180,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg)
 
+### ID Laravel
+
+[Website](https://id-laravel.com/)
+
 ## J<a name="j"></a>
 
 ### Jago Coding
