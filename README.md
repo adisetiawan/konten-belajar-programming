@@ -1,7 +1,7 @@
 # Website, konten, & komunitas seputar pemrograman di Indonesia
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Saweria](https://img.shields.io/badge/saweria-10rb-blue)](https://saweria.co/adisetiawan) [![Trakteer](https://img.shields.io/badge/trakteer-10rb-orange)](https://trakteer.id/inacode) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
@@ -461,6 +461,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://rwand.rumahrobotik.com/"><img src="https://avatars0.githubusercontent.com/u/22952485?v=4" width="100px;" alt=""/><br /><sub><b>Eri Wandri</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=w4ndry" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/roufroufrouf"><img src="https://avatars0.githubusercontent.com/u/28399842?v=4" width="100px;" alt=""/><br /><sub><b>Abdurrouf</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=roufroufrouf" title="Documentation">📖</a></td>
     <td align="center"><a href="http://abdmmar.github.io"><img src="https://avatars3.githubusercontent.com/u/50788123?v=4" width="100px;" alt=""/><br /><sub><b>Ammar</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=abdmmar" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/suryawiguna"><img src="https://avatars0.githubusercontent.com/u/18457413?v=4" width="100px;" alt=""/><br /><sub><b>Surya Wiguna</b></sub></a><br /><a href="https://github.com/adisetiawan/konten-belajar-programming/commits?author=suryawiguna" title="Documentation">📖</a></td>
   </tr>
 </table>
 
