@@ -76,6 +76,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://www.codingtive.com/) | [Instagram](https://www.instagram.com/codingtive/?hl=id) | [Facebook](https://web.facebook.com/codingtive/)
 
+### Cloud Engineering with Imre
+
+[YouTube](https://www.youtube.com/c/ImreNagi/featured)
+
 ## D<a name="d"></a>
 
 ### Dicoding
@@ -188,6 +192,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://id-laravel.com/)
 
+### i Did IT - Koding Aja Dulu
+
+[Youtube](https://www.youtube.com/channel/UCxNrN9kKErgvpjopJLBdiSA)
+
 ## J<a name="j"></a>
 
 ### Jago Coding
@@ -236,6 +244,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/channel/UC4hD-lN-gBMBKbOp8mZgDLg)
 
+### Koding Bareng Petra
+
+[Youtube](https://www.youtube.com/channel/UC-FKShDhdhYi_ykRoF2sY9w)
+
 
 
 ## L<a name="l"></a>
@@ -275,6 +287,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Nusendra.com
 
 [Youtube](https://www.youtube.com/channel/UCPs91pCgbgtcSdnczFSAkdA)
+
+### Nafies Luthfi
+
+[Website](https://blog.nafies.id/)
 
 ## O<a name="o"></a>
 
