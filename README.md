@@ -138,9 +138,6 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A)
 
-### Facebook Developer Circle: Bali
-
-[Facebook](https://www.facebook.com/groups/DevCBali)
 
 ## G<a name="g"></a>
 
