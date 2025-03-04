@@ -1,7 +1,9 @@
 # Website, konten, & komunitas seputar pemrograman di Indonesia
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Saweria](https://img.shields.io/badge/saweria-10rb-blue)](https://saweria.co/adisetiawan) [![Trakteer](https://img.shields.io/badge/trakteer-10rb-orange)](https://trakteer.id/flamer) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
@@ -11,6 +13,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [Lain-lain](#lain)
 
 ## A<a name="a"></a>
+
+### Anak AI
+
+[Youtube](http://www.youtube.com/@AnakAI)
 
 ### Android Developer Nasional
 
@@ -55,6 +61,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 [Website](https://badoystudio.com/) | [Facebook](https://facebook.com/badoystudio) | [Youtube](https://www.youtube.com/channel/UCU_WErTDbkPzjrd4j_t5c9Q)
 
 ## C<a name="c"></a>
+
+### Cendekia Luthfieta NZ
+
+[Youtube](http://www.youtube.com/@luthfieta)
 
 ### Codepolitan
 
@@ -128,6 +138,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://www.eudeka.id/) | [Facebook](https://www.facebook.com/eudeka.id) | [Instagram](https://instagram.com/eudeka.id) | [Twitter](https://twitter.com/eudekaid)
 
+### Elektro Programming
+
+[Youtube](https://www.youtube.com/@elektroprogramming)
+
 ## F<a name="f"></a>
 
 ### Flutter Indonesia
@@ -138,18 +152,29 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A)
 
-
 ## G<a name="g"></a>
+
+### Giri Kuncoro
+
+[Youtube](https://www.youtube.com/@BengkelDevops)
 
 ### Golang Indonesia
 
 [Telegram](https://t.me/golangID)
+
+### Guntur Budi
+
+[Youtube](https://www.youtube.com/@gunturbudih)
 
 ## H<a name="h"></a>
 
 ### Hacktiv8
 
 [Website](https://hacktiv8.com/) | [Instagram](https://www.instagram.com/hacktiv8id/) | [Facebook](https://www.facebook.com/hacktiv8id/) | [Twitter](https://twitter.com/hacktiv8id) | [Youtube](https://www.youtube.com/c/HACKTIV8)
+
+### Helmi Satria
+
+[Youtube](https://www.youtube.com/@helmisatria)
 
 ## I<a name="i"></a>
 
@@ -168,6 +193,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Indobot
 
 [Website](https://indobot.co.id/) | [Instagram](https://www.instagram.com/indobot.co.id/) | [Facebook](https://web.facebook.com/indobot.co.id)
+
+### Indonesia Belajar
+
+[Youtube](https://www.youtube.com/@belajaridn)
 
 ### Ipung Dev
 
@@ -202,6 +231,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### JavaScript Indonesia
 
 [Telegram](https://t.me/js_id)
+
+### JCOp Untuk Indonesia
+
+[Youtube](http://www.youtube.com/@JCOpUntukIndonesia)
 
 ## K<a name="k"></a>
 
@@ -245,8 +278,6 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/channel/UC-FKShDhdhYi_ykRoF2sY9w)
 
-
-
 ## L<a name="l"></a>
 
 ## M<a name="m"></a>
@@ -263,7 +294,19 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://www.malasngoding.com/) | [Instagram](https://www.instagram.com/malasngoding/) | [Facebook](https://www.facebook.com/malasngodingpage/) | [Youtube](https://www.youtube.com/malasngoding?sub_confirmation=1) | [Twitter](https://twitter.com/malasngoding) | [Github](https://github.com/malasngoding/)
 
+### Manusia Setengah Chi Kuadrat
+
+[Youtube](https://www.youtube.com/@ManusiaSetengahChiKuadrat)
+
+### Mega Bagus Herlambang
+
+[Youtube](https://www.youtube.com/@megabagusherlambang)
+
 ## N<a name="n"></a>
+
+### Nauval
+
+[Youtube](https://www.youtube.com/@mhdnauvalazhar)
 
 ### NodeJS Indonesia
 
@@ -301,6 +344,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://www.petanikode.com/) | [Instagram](https://instagram.com/petanikode/) | [Youtube](https://www.youtube.com/petanikode) | [Facebook](https://www.facebook.com/petanikode) | [Twitter](https://twitter.com/petanikode) | [Telegram](https://t.me/petanikode)
 
+### Pojok Code
+
+[Youtube](http://www.youtube.com/@PojokCode)
+
 ### Progate
 
 [Website](https://progate.com/) | [Instagram](https://www.instagram.com/progateID) | [Facebook](https://www.facebook.com/ProgateID/) | [Twitter](https://twitter.com/progateID)
@@ -320,6 +367,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### Pythonindo
 
 [Website](https://www.pythonindo.com/)
+
+### Python Project
+
+[Youtube](https://www.youtube.com/@pythonproject940)
 
 ### Pintaar
 
@@ -357,6 +408,14 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/c/RizaFahmi/)
 
+### Ridwan Ilyas
+
+[Youtube](https://www.youtube.com/@rdwnilyas)
+
+### Ruang Developer
+
+[Youtube](https://www.youtube.com/@ruangdeveloper9776)
+
 ## S<a name="s"></a>
 
 ### Sekolah Koding
@@ -370,6 +429,14 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 ### SurabayaJS
 
 [Website](https://surabayajs.org/) | [Twitter](https://twitter.com/surabaya_js) | [Discord](https://discord.gg/kx3qp5S)
+
+### Sumantri S
+
+[Youtube](https://www.youtube.com/@sumantris)
+
+### Surya Mahadi
+
+[Youtube](https://www.youtube.com/@suryamahadi8537)
 
 ### Svelte Indonesia
 
@@ -393,7 +460,15 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Telegram](https://t.me/TypescriptIndonesia)
 
+### Try Catch Dev
+
+[Youtube](https://www.youtube.com/@TryCatchDev)
+
 ## U<a name="u"></a>
+
+### UpKoding
+
+[Youtube](http://www.youtube.com/@upkoding)
 
 ## V<a name="v"></a>
 
@@ -486,6 +561,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
